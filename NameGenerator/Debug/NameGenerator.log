@@ -1,0 +1,3 @@
+﻿  NameGenerator.cpp
+c:\users\jocelyn\desktop\cmpr 120\namegenerator\namegenerator\namegenerator.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NameGenerator.vcxproj -> C:\Users\Jocelyn\Desktop\CMPR 120\NameGenerator\Debug\NameGenerator.exe
